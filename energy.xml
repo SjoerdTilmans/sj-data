@@ -737,5 +737,16 @@
 		<Biofuels>1044.72940833333</Biofuels>
 		<Solar>2111.17565166666</Solar>
 	</dat>
+	<dat id='2021'>
+		<Coal>44473</Coal>
+		<Oil>51170</Oil>
+		<Gas>40375</Gas>
+		<Other>763</Other>
+		<Hydropower>11183</Hydropower>
+		<Nuclear>7031</Nuclear>
+		<Wind>4872</Wind>
+		<Biofuels>1140</Biofuels>
+		<Solar>2702</Solar>
+	</dat>
 </data>
 
